@@ -174,7 +174,7 @@ public class FigurasPlanasVolumen {
                  }
                  break;
              default:
-                 System.out.println("Eror el numero tiene que ser 1 o 2 ");
+                 System.out.println("Error el numero tiene que ser 1 o 2 ");
                  
          }    
     }while(volver);
